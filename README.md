@@ -1,6 +1,6 @@
-Monthly Evaluation Client Project "helpchen"
+##Monthly Evaluation Client Project "helpchen"##
 
-Mrs. Chen Yong, your client from China is having issues on GitHub, you are to create this repository helpchen and write the guidelines on:
+**Mrs. Chen Yong, your client from China is having issues on GitHub, you are to create this repository helpchen and write the guidelines on:**
 
 How to install git on a local machine (git.txt)
 
