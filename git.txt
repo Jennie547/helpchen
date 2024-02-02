@@ -1,0 +1,13 @@
+HOW TO INSTALL GIT IN A LOCAL MACHINE
+
+1. First, go to the official Git website: https://git-scm.com/downloads .
+
+2. Look for the download section and click on the appropriate installer for your operating system (Windows, macOS, or Linux).
+
+3. Once the installer is downloaded, open it and follow the on-screen instructions to begin the installation process.
+
+4. During the installation, you may be prompted to choose the installation location and select additional components. You can usually leave the default settings as they are.
+
+5. After the installation is complete, open your command prompt or terminal and type "git --version" to verify that Git has been successfully installed.
+
+6. Congratulations! You now have Git installed on your local machine.
